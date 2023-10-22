@@ -1,0 +1,7 @@
+*.ipynb
+/Older Versions
+**.pk1
+**.csv
+**.xls
+**.txt
+/.vs
